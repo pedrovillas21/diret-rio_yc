@@ -4,7 +4,7 @@ typescript: {
   ignoreBuildErrors: true,
 },
 eslint: {
-  ignoreBuildErrors: true,
+  ignoreDuringBuilds: true,
 },
 images:{
   dangerouslyAllowSVG: true,
